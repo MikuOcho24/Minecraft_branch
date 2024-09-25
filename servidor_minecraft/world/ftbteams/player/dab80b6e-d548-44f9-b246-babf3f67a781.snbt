@@ -1,0 +1,15 @@
+{
+	id: "dab80b6e-d548-44f9-b246-babf3f67a781"
+	type: "player"
+	player_name: "MikuOcho69"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "MikuOcho69"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59CF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

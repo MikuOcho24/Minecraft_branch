@@ -1,0 +1,22 @@
+{
+	id: "574aa89b-6edb-4a32-ab6d-9142bcf348eb"
+	type: "party"
+	owner: "dab80b6e-d548-44f9-b246-babf3f67a781"
+	ranks: {
+		37c51eb2-ca4f-410b-b7a1-3a15b8749c04: "member"
+		dab80b6e-d548-44f9-b246-babf3f67a781: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LOS TILINES"
+		"ftbteams:description": "SEXO"
+		"ftbteams:color": "#FF59CF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1721775603033L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"MikuOcho69\"}]}" }
+		{ from: "dab80b6e-d548-44f9-b246-babf3f67a781", date: 1721775603037L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Reaccon453\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1721775613484L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Reaccon453\"}]}" }
+	]
+	extra: { }
+}

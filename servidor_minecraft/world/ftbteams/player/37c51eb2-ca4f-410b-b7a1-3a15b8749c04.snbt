@@ -1,0 +1,15 @@
+{
+	id: "37c51eb2-ca4f-410b-b7a1-3a15b8749c04"
+	type: "player"
+	player_name: "Reaccon453"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Reaccon453"
+		"ftbteams:description": ""
+		"ftbteams:color": "#599DFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

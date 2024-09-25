@@ -1,0 +1,41 @@
+2024-09-22 22:04:19.249340833[CLIENT]/workspaces/XD/servidor_minecraft/config/dcclasses
+2024-09-22 22:04:39.65824936[CLIENT]Registered class clazz dawncraft:brawler
+2024-09-22 22:04:39.661261668[CLIENT]Registered class clazz dawncraft:warrior
+2024-09-22 22:04:39.661808258[CLIENT]Registered class clazz dawncraft:berserker
+2024-09-22 22:04:39.662271842[CLIENT]Registered class clazz dawncraft:roamer
+2024-09-22 22:04:39.662714688[CLIENT]Registered class clazz dawncraft:lancer
+2024-09-22 22:04:39.663115536[CLIENT]Registered class clazz dawncraft:ronin
+2024-09-22 22:04:39.663590101[CLIENT]Registered class clazz dawncraft:astrologer
+2024-09-22 22:04:39.664020133[CLIENT]Registered class clazz dawncraft:tank
+2024-09-22 22:05:14.685097449[CLIENT]Applying dawncraft:ronin modififers to player MikuOcho69
+2024-09-22 22:05:14.686887327[CLIENT]Applying attribute minecraft:generic.max_health with value 16.0 to player MikuOcho69
+2024-09-22 22:05:14.687685265[CLIENT]Applying attribute paraglider:max_stamina with value 28.0 to player MikuOcho69
+2024-09-22 22:05:14.688581416[CLIENT]Attribute is paraglider:max_stamina, removing 28.0 points as default.
+2024-09-22 22:05:23.054237584[CLIENT]Applying dawncraft:astrologer modififers to player Reaccon453
+2024-09-22 22:05:23.056906331[CLIENT]Applying attribute minecraft:generic.max_health with value 16.0 to player Reaccon453
+2024-09-22 22:05:23.057453672[CLIENT]Applying attribute paraglider:max_stamina with value 20.0 to player Reaccon453
+2024-09-22 22:05:23.057923909[CLIENT]Attribute is paraglider:max_stamina, removing 28.0 points as default.
+2024-09-22 23:27:41.05282017[CLIENT]Applying dawncraft:astrologer modififers to player Reaccon453
+2024-09-22 23:27:41.053416141[CLIENT]Applying attribute minecraft:generic.max_health with value 16.0 to player Reaccon453
+2024-09-22 23:27:41.053636131[CLIENT]Applying attribute paraglider:max_stamina with value 20.0 to player Reaccon453
+2024-09-22 23:27:41.053844691[CLIENT]Attribute is paraglider:max_stamina, removing 28.0 points as default.
+2024-09-22 23:32:58.146793834[CLIENT]Applying dawncraft:astrologer modififers to player Reaccon453
+2024-09-22 23:32:58.147289649[CLIENT]Applying attribute minecraft:generic.max_health with value 16.0 to player Reaccon453
+2024-09-22 23:32:58.14749906[CLIENT]Applying attribute paraglider:max_stamina with value 20.0 to player Reaccon453
+2024-09-22 23:32:58.147757591[CLIENT]Attribute is paraglider:max_stamina, removing 28.0 points as default.
+2024-09-22 23:34:22.028729422[CLIENT]Applying dawncraft:ronin modififers to player MikuOcho69
+2024-09-22 23:34:22.029113538[CLIENT]Applying attribute minecraft:generic.max_health with value 16.0 to player MikuOcho69
+2024-09-22 23:34:22.029343247[CLIENT]Applying attribute paraglider:max_stamina with value 28.0 to player MikuOcho69
+2024-09-22 23:34:22.029558999[CLIENT]Attribute is paraglider:max_stamina, removing 28.0 points as default.
+2024-09-22 23:35:36.60219268[CLIENT]Applying dawncraft:astrologer modififers to player Reaccon453
+2024-09-22 23:35:36.602668337[CLIENT]Applying attribute minecraft:generic.max_health with value 16.0 to player Reaccon453
+2024-09-22 23:35:36.602995658[CLIENT]Applying attribute paraglider:max_stamina with value 20.0 to player Reaccon453
+2024-09-22 23:35:36.603228642[CLIENT]Attribute is paraglider:max_stamina, removing 28.0 points as default.
+2024-09-22 23:35:42.646014333[CLIENT]Applying dawncraft:astrologer modififers to player Reaccon453
+2024-09-22 23:35:42.646530044[CLIENT]Applying attribute minecraft:generic.max_health with value 16.0 to player Reaccon453
+2024-09-22 23:35:42.646749814[CLIENT]Applying attribute paraglider:max_stamina with value 20.0 to player Reaccon453
+2024-09-22 23:35:42.64703171[CLIENT]Attribute is paraglider:max_stamina, removing 28.0 points as default.
+2024-09-23 00:40:16.651188915[CLIENT]Applying dawncraft:astrologer modififers to player Reaccon453
+2024-09-23 00:40:16.651924407[CLIENT]Applying attribute minecraft:generic.max_health with value 16.0 to player Reaccon453
+2024-09-23 00:40:16.652458133[CLIENT]Applying attribute paraglider:max_stamina with value 20.0 to player Reaccon453
+2024-09-23 00:40:16.652980116[CLIENT]Attribute is paraglider:max_stamina, removing 28.0 points as default.
